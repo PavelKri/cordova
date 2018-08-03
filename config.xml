@@ -11,4 +11,5 @@
     <access origin="*" />
     <preference name="Fullscreen" value="true" />
     <preference name="Orientation" value="portrait" />
+    <engine name="android" spec="~7.0.0" />
 </widget>

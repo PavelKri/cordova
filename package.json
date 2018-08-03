@@ -1,0 +1,13 @@
+{
+  "name": "com.drshoggoth.cordovathreejs",
+  "version": "0.0.1",
+  "displayName": "CordovaThreeJS",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
